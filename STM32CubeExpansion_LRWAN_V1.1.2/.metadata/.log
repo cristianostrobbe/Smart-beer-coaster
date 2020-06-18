@@ -1,0 +1,171 @@
+!SESSION 2017-11-21 17:59:32.311 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-21 18:01:11.299
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Basilici Marco'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY fr.ac6.mcu.ide 1 1 2017-11-21 18:01:25.359
+!MESSAGE Started RMI Server, listening on port 21112
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-21 18:02:32.606
+!MESSAGE Indexed 'mlm32l07x01' (63 sources, 146 headers) in 14,4 sec: 14.887 declarations; 82.090 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+!SESSION 2017-11-22 09:13:37.180 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product C:\Users\Basilici Marco\Desktop\STM32 workplace\STM32CubeExpansion_LRWAN_V1.1.2\Projects\Multi\Applications\LoRa\End_Node\SW4STM32\B-L072Z-LRWAN1\mlm32l07x01\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product C:\Users\Basilici Marco\Desktop\STM32 workplace\STM32CubeExpansion_LRWAN_V1.1.2\Projects\Multi\Applications\LoRa\End_Node\SW4STM32\B-L072Z-LRWAN1\mlm32l07x01\.cproject
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-22 09:14:40.988
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Basilici Marco'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY fr.ac6.mcu.ide 1 1 2017-11-22 09:14:54.942
+!MESSAGE Started RMI Server, listening on port 21112
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-22 09:31:30.897
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-22 09:31:30.911
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-22 10:07:48.224
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-link004.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-22 10:07:51.958
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-stm32095.zip!/.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-22 10:09:52.340
+!MESSAGE Indexed 'interrupt-test' (23 sources, 87 headers) in 6,99 sec: 8.308 declarations; 36.301 references; 0 unresolved inclusions; 75 syntax errors; 62 unresolved names (0,14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-22 15:36:08.814
+!MESSAGE Indexed 'ADC_Usart' (21 sources, 83 headers) in 4,59 sec: 8.462 declarations; 36.920 references; 0 unresolved inclusions; 75 syntax errors; 54 unresolved names (0,12%)
+
+!ENTRY org.eclipse.ui 4 4 2017-11-22 15:36:42.098
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.editors.
+!SESSION 2017-11-23 15:49:39.109 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product C:\Users\Basilici Marco\Desktop\STM32 workplace\STM32CubeExpansion_LRWAN_V1.1.2\Projects\Multi\Applications\LoRa\End_Node\SW4STM32\B-L072Z-LRWAN1\mlm32l07x01\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product C:\Users\Basilici Marco\Desktop\STM32 workplace\STM32CubeExpansion_LRWAN_V1.1.2\Projects\Multi\Applications\LoRa\End_Node\SW4STM32\B-L072Z-LRWAN1\mlm32l07x01\.cproject
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-23 15:51:33.237
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Basilici Marco'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY fr.ac6.mcu.ide 1 1 2017-11-23 15:51:46.874
+!MESSAGE Started RMI Server, listening on port 21112
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-23 16:08:36.083
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-23 16:08:36.113
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-23 16:09:36.267
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-link004.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-23 16:09:40.282
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-stm32095.zip!/.
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-11-23 16:52:38.560
+!MESSAGE Indexed 'interrupt' (21 sources, 85 headers) in 5,25 sec: 8.054 declarations; 27.730 references; 0 unresolved inclusions; 75 syntax errors; 54 unresolved names (0,15%)
+!SESSION 2017-11-24 10:15:51.076 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-24 10:17:50.348
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Basilici Marco'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY fr.ac6.mcu.ide 1 1 2017-11-24 10:18:14.273
+!MESSAGE Started RMI Server, listening on port 21112
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-24 10:27:03.870
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-24 10:27:03.879
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-24 11:16:58.600
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-link004.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-24 11:17:02.624
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-stm32095.zip!/.
+!SESSION 2017-11-26 16:36:23.971 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-26 16:41:41.978
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Basilici Marco'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY fr.ac6.mcu.ide 1 1 2017-11-26 16:41:58.674
+!MESSAGE Started RMI Server, listening on port 21112
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-26 16:46:59.783
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-link004.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-26 16:47:04.805
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-stm32095.zip!/.
+!SESSION 2017-11-27 09:18:13.535 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization configuration/st_pref.ini -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-11-27 09:21:26.330
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Basilici Marco'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY fr.ac6.mcu.ide 1 1 2017-11-27 09:21:37.191
+!MESSAGE Started RMI Server, listening on port 21112
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-27 09:32:57.939
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-11-27 09:32:58.013
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-27 10:05:11.901
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-link004.zip!/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-11-27 10:05:19.796
+!MESSAGE No repository found at jar:file:/C:/Users/Basilici%20Marco/Downloads/en.stsw-stm32095.zip!/.

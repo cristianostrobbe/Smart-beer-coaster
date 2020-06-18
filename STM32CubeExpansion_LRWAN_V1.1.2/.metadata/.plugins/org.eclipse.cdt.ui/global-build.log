@@ -1,0 +1,66 @@
+17:09:30 **** Incremental Build of configuration Debug for project mlm32l07x01 ****
+make all 
+Building file: C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c
+Invoking: MCU GCC Compiler
+C:\Users\Basilici Marco\Desktop\STM32 workplace\STM32CubeExpansion_LRWAN_V1.1.2\Projects\Multi\Applications\LoRa\End_Node\SW4STM32\B-L072Z-LRWAN1\mlm32l07x01\Debug
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -DSTM32L072xx -DUSE_B_L072Z_LRWAN1 -DUSE_HAL_DRIVER -DREGION_EU868 -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/inc" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/MLM32L07X01" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/STM32L0xx_HAL_Driver/Inc" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/CMSIS/Device/ST/STM32L0xx/Include" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/CMSIS/Include" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Middlewares/Third_Party/Lora/Crypto" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Middlewares/Third_Party/Lora/Mac" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Middlewares/Third_Party/Lora/Phy" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Middlewares/Third_Party/Lora/Utilities" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Middlewares/Third_Party/Lora/Core" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/Components/Common" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/Components/hts221" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/Components/lps22hb" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/Components/lps25hb" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/Components/sx1276" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/X_NUCLEO_IKS01A1" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/X_NUCLEO_IKS01A2" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Drivers/BSP/B-L072Z-LRWAN1" -I"C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Middlewares/Third_Party/Lora/Mac/region"  -Os -g3 -Wall -fmessage-length=0 -ffunction-sections -c -fmessage-length=0 -MMD -MP -MF"Projects/End_Node/main.d" -MT"Projects/End_Node/main.o" -o "Projects/End_Node/main.o" "C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c"
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c: In function 'EXTI2_3_IRQHandler':
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:180:8: warning: unused variable 'j' [-Wunused-variable]
+    int j=0;
+        ^
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c: In function 'main':
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:245:5: warning: unused variable 't' [-Wunused-variable]
+ int t= 0;
+     ^
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c: In function 'LoraTxData':
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:294:12: warning: pointer targets in passing argument 1 of 'sprintf' differ in signedness [-Wpointer-sign]
+    sprintf(AppData->Buff, msg_int);
+            ^~~~~~~
+In file included from c:\ac6\systemworkbench\plugins\fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556\tools\compiler\arm-none-eabi\include\sys\reent.h:13:0,
+                 from c:\ac6\systemworkbench\plugins\fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556\tools\compiler\arm-none-eabi\include\math.h:5,
+                 from C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/inc/hw.h:69,
+                 from C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:62:
+c:\ac6\systemworkbench\plugins\fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556\tools\compiler\arm-none-eabi\include\stdio.h:244:5: note: expected 'char * restrict' but argument is of type 'uint8_t * {aka unsigned char *}'
+ int _EXFUN(sprintf, (char *__restrict, const char *__restrict, ...)
+     ^
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:295:31: warning: pointer targets in passing argument 1 of 'strlen' differ in signedness [-Wpointer-sign]
+    AppData->BuffSize = strlen(AppData->Buff);
+                               ^~~~~~~
+In file included from c:\ac6\systemworkbench\plugins\fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556\tools\compiler\arm-none-eabi\include\sys\reent.h:13:0,
+                 from c:\ac6\systemworkbench\plugins\fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556\tools\compiler\arm-none-eabi\include\math.h:5,
+                 from C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/inc/hw.h:69,
+                 from C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:62:
+c:\ac6\systemworkbench\plugins\fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556\tools\compiler\arm-none-eabi\include\string.h:37:9: note: expected 'const char *' but argument is of type 'uint8_t * {aka unsigned char *}'
+ size_t  _EXFUN(strlen,(const char *));
+         ^
+At top level:
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:346:13: warning: 'OnTimerLedEvent' defined but not used [-Wunused-function]
+ static void OnTimerLedEvent( void )
+             ^~~~~~~~~~~~~~~
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:140:21: warning: 'TxLedTimer' defined but not used [-Wunused-variable]
+ static TimerEvent_t TxLedTimer;
+                     ^~~~~~~~~~
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c: In function 'EXTI2_3_IRQHandler':
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:181:22: warning: 'j' may be used uninitialized in this function [-Wmaybe-uninitialized]
+    for (int j; j<4; j++)
+                     ~^~
+C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c:162:25: warning: 'i' may be used uninitialized in this function [-Wmaybe-uninitialized]
+    for (int i; i < 10; i++)
+                        ~^~
+Finished building: C:/Users/Basilici Marco/Desktop/STM32 workplace/STM32CubeExpansion_LRWAN_V1.1.2/Projects/Multi/Applications/LoRa/End_Node/src/main.c
+ 
+Building target: mlm32l07x01.elf
+Invoking: MCU GCC Linker
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -specs=nosys.specs -specs=nano.specs -T"../STM32L072CZYx_FLASH.ld" -Wl,-Map=output.map -Wl,--gc-sections -o "mlm32l07x01.elf" @"objects.list"   -lm
+Finished building target: mlm32l07x01.elf
+ 
+make --no-print-directory post-build
+Generating binary and Printing size information:
+arm-none-eabi-objcopy -O binary "mlm32l07x01.elf" "mlm32l07x01.bin"
+arm-none-eabi-size "mlm32l07x01.elf"
+   text	   data	    bss	    dec	    hex	filename
+  51376	    464	   4936	  56776	   ddc8	mlm32l07x01.elf
+ 
+17:09:43 **** Incremental Build of configuration Debug for project mlm32l07x01 ****
+make all 
+make: Nothing to be done for 'all'.

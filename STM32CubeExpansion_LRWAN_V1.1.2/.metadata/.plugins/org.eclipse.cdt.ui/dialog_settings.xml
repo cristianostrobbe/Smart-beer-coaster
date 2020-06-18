@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="false" key="caseSensitive"/>
+		<item value="227191" key="searchFlags"/>
+		<list key="previousPatterns">
+			<item value="HAL_RTC_DeactivateAlarm"/>
+			<item value="HAL_RTC_SetAlarm_IT"/>
+			<item value="__HAL_RTC_ALARM_ENABLE_IT"/>
+			<item value="TxDone"/>
+			<item value="TimerInit"/>
+			<item value="SX1276OnTimeoutIrq"/>
+			<item value="rxTimeOut"/>
+			<item value="RxDone"/>
+			<item value="txDone"/>
+		</list>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>

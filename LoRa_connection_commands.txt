@@ -1,0 +1,32 @@
+
+
+######### PuTTY #######
+Hostname:	raspberrypi.mshome.net
+PORT: 		22
+
+######## Rasberry connection ########
+login as: pi
+password: trentoiot
+
+Nota Bene: è possibile che bisogna entrare nel Centro connessioni di WIndows e abilitare la connesione ethernet con la raspberry 
+ 
+command to start nodeRed: node-red-start
+
+Open other putty command with the same hostname and port 
+
+######## Read pack in rasberry ########
+command:
+			cd ~/single_chan_pkt_fwd
+			sudo ./single_chan_pkt_fwd
+
+
+####### the things console #####################
+
+https://console.thethingsnetwork.org/applications/mynode/devices/endnode/data
+
+email: marco.basilici@studenti.unitn.it
+password: trentoiot
+
+############### node-red #######################
+https://console.thethingsnetwork.org/applications/mynode/devices/endnode/data
+

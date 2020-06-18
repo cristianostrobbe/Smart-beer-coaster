@@ -1,0 +1,11 @@
+
+Instuzioni per aprire il progetto di lora per STM32L476RGTX 
+1.apri System Workbench for STM32 
+2.file->import->General->Projects from folder or archive
+3.directory path folder: STM32_LRWAN
+4.deselect all
+5.select only: ....\B-L072Z-LRWAN1\mlm32l07x01
+
+OR
+open stmproject  questa directory :
+C:\Users\...\STM32CubeExpansion_LRWAN_V1.1.2\Projects\Multi\Applications\LoRa\End_Node\SW4STM32\B-L072Z-LRWAN1
